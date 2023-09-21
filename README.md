@@ -4,7 +4,7 @@
 ## Description
 This repository publicly shares IoT datasets utilized in the research study titled ***Behind the Scenes: Revealing TLS and Server Certificate Practices of IoT Device Vendors in Real-world Scenarios***, which is to be appeared at ACM IMC 2023. 
 
-In accordance with user privacy safeguards, the datasets do not include *device_id* information. Researchers interested in utilizing the datasets for their studies are encouraged to reach out to hd7gr@virginia.edu for a complete version.
+In accordance with user privacy safeguards, the datasets do not include *device_id* information. Researchers interested in utilizing the datasets for their studies are encouraged to reach out to authors for a complete version.
 
 
 ## Citation
