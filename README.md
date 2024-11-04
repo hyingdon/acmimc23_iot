@@ -2,14 +2,14 @@
 
 
 ## Description
-This repository publicly shares IoT datasets utilized in the research study titled ***Behind the Scenes: Revealing TLS and Server Certificate Practices of IoT Device Vendors in Real-world Scenarios***, which is to be appeared at ACM IMC 2023. 
+This repository publicly shares IoT datasets utilized in the research study titled ***Behind the Scenes: Revealing TLS and Server Certificate Practices of IoT Device Vendors in Real-world Scenarios***, which is published at ACM IMC 2023. 
 
 In accordance with user privacy safeguards, the datasets do not include *device_id* information. Researchers interested in utilizing the datasets for their studies are encouraged to reach out to authors for a complete version.
 
 
 ## Citation
 Please kindly provide proper citations to the following publications when utilizing these datasets:
-1. ToBeFilled. 
+1. Dong, Hongying, et al. "Behind the Scenes: Uncovering TLS and Server Certificate Practice of IoT Device Vendors in the Wild." Proceedings of the 2023 ACM on Internet Measurement Conference. 2023. 
 2. Huang, Danny Yuxing, et al. "Iot inspector: Crowdsourcing labeled network traffic from smart home devices at scale." Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies 4.2 (2020): 1-21.
 
 
